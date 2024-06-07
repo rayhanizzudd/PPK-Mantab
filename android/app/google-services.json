@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "249132826909",
+    "project_id": "mantab-8e9eb",
+    "storage_bucket": "mantab-8e9eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249132826909:android:54776866e54ed3435321f4",
+        "android_client_info": {
+          "package_name": "com.example.first"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXKzdmdkrke2dxYdC7E0xJpie4tGfFEvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
